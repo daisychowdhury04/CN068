@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "type": "Full-time",
+    "salary": 80000,
+    "location": "New York, NY"
+  },
+  {
+    "id": 2,
+    "title": "Marketing Intern",
+    "type": "Internship",
+    "salary": 0,
+    "location": "San Francisco, CA"
+  },
+  {
+    "id": 3,
+    "title": "Graphic Designer",
+    "type": "Full-time",
+    "salary": 55000,
+    "location": "Los Angeles, CA"
+  },
+  {
+    "id": 4,
+    "title": "Data Scientist",
+    "type": "Full-time",
+    "salary": 95000,
+    "location": "Chicago, IL"
+  },
+  {
+    "id": 5,
+    "title": "Content Writer",
+    "type": "Work from Home",
+    "salary": 45000,
+    "location": "Remote"
+  }
+]
